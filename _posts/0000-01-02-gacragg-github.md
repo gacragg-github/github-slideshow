@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+That which does not kill you only makes you stronger
 Use the left arrow to go back!
